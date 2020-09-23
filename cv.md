@@ -1,26 +1,28 @@
-#PAVEL   MELNIKOV
-##Contact
-####Address:
+#PAVEL   MELNIKOV#
+
+##Contact##
+
+####Address:####
 >Jemchuzjnaya str  
 >Gomel, Belarus 246042
 
-####Phone:
+####Phone:####
 >+375 (29)3852508 
 
-####Email:
+####Email:####
 >melnikovgru@gmail.com
-#####Languages
+#####Languages####
 >Native Russia
 >English – Pre-intermediate
 
 
-##Summary
+##Summary##
 > Web Developer specializing in front-end development. Experienced with develop  dynamic web site.
 Well-versed in  programming languages including HTML5, CSS, JavaScript , (JS-React), (Redux), Interaction with Node.js (BackEnd),  MySQL,
 Experienced with customer relations.
 
 
-###Skill Highlights
+###Skill Highlights###
 •	Responsive web design
 •	JavaScript : React, redux, ES6.
 •	Node.js
@@ -31,7 +33,7 @@ Experienced with customer relations.
 •	CSS (layout), WordPress,
 
 
-###Experience
+###Experience###
 >Web Developer - 02/2019
 >freelance
 
@@ -41,11 +43,11 @@ Experienced with customer relations.
 •	Participated in the completion of the site
 •	Maintained integrity of program logic and coding
 
-###Education
+###Education###
 >Graduated from the University of Economics.
 >Graduated courses from language International College "Kaplan" in London . (English)
 >Course from "IT Academy"  JavaScript, React
 
-###Certifications
+###Certifications###
 >JavaScript Framework : React,
 >Programming Languages: JavaScript, Node.js, MySQL HTML5, CSS
