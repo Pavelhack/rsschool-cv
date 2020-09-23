@@ -1,3 +1,3 @@
 # rsschool-cv
-my CV
+my CV: 
 https://pavelhack.github.io/rsschool-cv/cv
