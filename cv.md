@@ -1,5 +1,5 @@
 #PAVEL   MELNIKOV#
-
+---
 ##Contact##
 
 ####Address:####
@@ -11,10 +11,12 @@
 
 ####Email:####
 >melnikovgru@gmail.com
-#####Languages####
+
+*Languages
 >Native Russia
 >English – Pre-intermediate
 
+---
 
 ##Summary##
 > Web Developer specializing in front-end development. Experienced with develop  dynamic web site.
